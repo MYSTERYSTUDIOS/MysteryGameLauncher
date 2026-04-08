@@ -1,4 +1,4 @@
-# MysteryGameLauncher
+# Mystery Studios Game Launcher
 Mystery Studios Game Launcher
 
 English (EN)
