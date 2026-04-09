@@ -3,7 +3,7 @@ Mystery Studios Game Launcher
 
 English (EN)
 
-Description
+
 Mystery Studios Game Launcher is a custom C++ project with a Qt-based GUI, created to manage and launch my Unreal Engine games. The launcher features:
  • Language selection (Russian / English)
  • Game descriptions and banners
@@ -27,7 +27,6 @@ Notes
 
 Русский (RU)
 
-Описание
 Mystery Studios Game Launcher — это проект на C++ с GUI на Qt, созданный для управления и запуска моих игр на Unreal Engine. Лаунчер включает:
  • Выбор языка (Русский / English)
  • Описание игр и баннеры
